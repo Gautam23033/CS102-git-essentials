@@ -3,3 +3,4 @@ clone
 version
 add
 push
+lerned how to clone a repository to local system, know the version of git, know the status of git, add file to repository and push it to server.
