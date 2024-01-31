@@ -1,0 +1,5 @@
+status
+clone
+version
+add
+push
